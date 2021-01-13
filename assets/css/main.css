@@ -71,9 +71,6 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-.formswift-button a {
- 		 display: none;
-	}
 
 /* Basic */
 
@@ -158,6 +155,10 @@ input, select, textarea {
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		color: inherit;
+	}
+
+	.formswift-button a {
+ 		 display: none;
 	}
 
 		a:hover {
