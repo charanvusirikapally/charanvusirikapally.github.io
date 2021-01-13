@@ -71,6 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+.formswift-button a {
+ 		 display: none;
+	}
 
 /* Basic */
 
@@ -257,9 +260,6 @@ input, select, textarea {
 		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
-	}
-	.formswift-button a {
- 		 display: none;
 	}
 
 	code {
